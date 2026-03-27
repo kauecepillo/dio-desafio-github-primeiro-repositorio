@@ -1,0 +1,7 @@
+Paleta de cores: https://colorhunt.co/
+Fontes Google: https://fonts.google.com/
+Bandeiras de Países: http://lascarid.es/fussyflags/
+Roda de cores: https://color.adobe.com/pt/create/color-wheel
+Checar Contrastes: https://webaim.org/resources/contrastchecker/
+Material de apoio: https://developer.mozilla.org/en-US/docs/Web/CSS
+Imagens gratuitas: https://pixabay.com/pt/
